@@ -6,6 +6,7 @@
 h1 {
   color: red;
   font-weight: bold;
+  
   .backgroundImage {
 	background-image: url(../img/wrench.png);
 	width: 400 px;
