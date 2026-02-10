@@ -2,4 +2,9 @@
 
 * {
 	font-family: Arial;
+	body { color: purple; }
+h1 {
+  color: red;
+  font-weight: bold;
+}
 }
